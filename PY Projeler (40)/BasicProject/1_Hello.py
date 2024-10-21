@@ -1,0 +1,1 @@
+print("Merhaba Dünya")    # Ekrana "Merhaba Dünya" yazdırır
